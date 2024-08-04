@@ -9,7 +9,7 @@ print(y)
 
 #x and y are variable 
 
-#we gave x the value of joini, and we print the Vairable in the concale
+#we gave x the value of joini, and we print the Vairable in the console 
 
 #thus we get joini as output
 
@@ -19,6 +19,6 @@ print(y)
 
 #we mostly name Variables to what they do 
 
-#variables  ontainers that hold values. They can be used to store anything 
+#variables are like containers that hold values. They can be used to store anything from simple data types like integers and strings 
 
 #like data types like integers and strings 
