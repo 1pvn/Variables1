@@ -21,4 +21,4 @@ print(y)
 
 #variables are like containers that hold values. They can be used to store anything from simple data types like integers and strings 
 
-#like data types like integers and strings 
+
